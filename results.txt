@@ -1,0 +1,4 @@
+german_sample - German - 76.7% - German - 93.3% - German - German - 1.0 - 
+german1 - German - 66.7% - German - 93.3% - German - German - 1.0 - 
+spanish_sample - Spanish - 90.0% - Spanish - 97.0% - Spanish - Spanish - 1.0 - 
+spanish1 - Spanish - 66.7% - Spanish - 90.9% - Spanish - Spanish - 1.0 - 
